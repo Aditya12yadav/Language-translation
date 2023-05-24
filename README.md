@@ -17,3 +17,6 @@ Here is a brief description of the code:
 12. The actual and predicted sentences are displayed in a DataFrame.
 
 Overall, this code demonstrates the training and evaluation of an NMT model for German-English translation using the Seq2Seq architecture. It uses LSTM layers for sequence processing and tokenization for text preprocessing. The model is trained on sentence pairs and can be used to generate translations for German sentences.
+
+Note: 
+The German-English dataset was downloaded from: http://www.manythings.org/anki/
